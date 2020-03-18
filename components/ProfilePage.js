@@ -16,7 +16,7 @@ const ProfilePage = props => {
 };
 
 export default ProfilePage;
-
+//
 // import React from "react";
 
 // import ProfileCard from "./ProfileCard";

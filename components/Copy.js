@@ -7,6 +7,7 @@ function Copy(props) {
     </div>
   );
 }
+//notes
 
 export default Copy;
 

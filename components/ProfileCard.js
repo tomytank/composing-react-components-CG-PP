@@ -22,7 +22,7 @@ const ProfileCard = props => {
     </>
   );
 };
-
+//Notes
 export default ProfileCard;
 
 // import React, { useState } from "react";

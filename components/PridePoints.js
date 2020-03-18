@@ -9,5 +9,6 @@ const PridePoints = props => {
     </div>
   );
 };
+//Note
 
 export default PridePoints;

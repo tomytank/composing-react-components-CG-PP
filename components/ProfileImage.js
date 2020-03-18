@@ -9,7 +9,7 @@ const ProfileImage = props => (
 );
 
 export default ProfileImage;
-
+//
 // import React from "react";
 
 // const ProfileImage = props => (
